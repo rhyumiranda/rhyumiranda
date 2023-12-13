@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rhyumiranda" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&duration=4000&pause=1000&color=808080&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello%2C+I'm+Rhyu+Miranda!;A+Front-End+Developer" />
@@ -37,31 +37,24 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs, javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,figma,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs" /><br>
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rhyumiranda/rhyumiranda/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-rhyumiranda.vercel.app/?user=rhyumiranda&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-rhyumiranda.vercel.app/api?username=rhyumiranda&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rhyumiranda&count_private=true&theme=graywhite&border_radius=10" alt="streak stats"/>
+  <img height=170 width=390 src="https://github-readme-stats.vercel.app/api?username=rhyumiranda&count_private=true&show_icons=true&theme=graywhite&rank_icon=github&border_radius=15" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-rhyumiranda.vercel.app/api/top-langs/?username=rhyumiranda&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<!-- <div align=center>
+  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyumiranda&hide=HTML&langs_count=8&layout=compact&theme=graywhite&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs " />
+</div> -->
 
 <br/><br/>
 
@@ -70,7 +63,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a width=280 href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
