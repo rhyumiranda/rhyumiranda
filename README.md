@@ -14,10 +14,10 @@
  
  🌱 I’m currently learning **Full Stack Javascript**
 
-💬 Ask me about **Entrepreneurship, Project Ideas, Collaborations**
+💬 Ask me about **Entrepreneurship, Project Ideas, and Collaborations**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
+<!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+-->
  </div>
  
 <div align="center"> 
