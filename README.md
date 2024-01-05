@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&duration=4000&pause=1000&color=808080&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello%2C+I'm+Rhyu+Miranda!;A+Front-End+Developer" />
 </h1>
 
-<h3 align="center">A passionate web developer from Philippines 🇵🇭</h3>
+<h3 align="center">A passionate web developer from the Philippines 🇵🇭</h3>
 
 <br/>
 
@@ -21,15 +21,15 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:rhyu.agapito.miranda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:rhyu.agapito.miranda@gmail.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
   <a href="https://www.linkedin.com/in/rhyumiranda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<!--   <a href="" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> sqlite, safari, google-chrome are other good icon options
+  </a> -->
 </div>
 
  <hr/>
@@ -48,9 +48,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rhyumiranda&count_private=true&theme=graywhite&border_radius=10" alt="streak stats"/>
-  <img height=170 width=390 src="https://github-readme-stats.vercel.app/api?username=rhyumiranda&count_private=true&show_icons=true&theme=graywhite&rank_icon=github&border_radius=15" alt="readme stats" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?theme=merko&username=rhyumiranda&show_icons=true&locale=en" alt="rhyu miranda stats" width="390" style="max-width: 100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rhyumiranda&theme=merko&hide_border=false&exclude_days=Sun" alt="rhyumiranda streak" width="415" style="max-width: 100%" />
 </div>
 <!-- <div align=center>
   <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyumiranda&hide=HTML&langs_count=8&layout=compact&theme=graywhite&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs " />
