@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **The Odin Project and IBM Front-End Developer Course**
  
- 🌱 I’m currently learning **Vanilla JS and RWD**
+ 🌱 I’m currently learning **Vanilla JS, RWD, UI/UX Design**
 
 💬 Ask me about **Entrepreneurship, Project Ideas, and Collaborations**
 
