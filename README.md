@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **The Odin Project Full Stack JS Path**
  
- 🌱 I’m currently learning **Vanilla JS, RWD, UI/UX Design**
+ 🌱 I’m currently learning **Advanced Vanilla JS Concepts, RWD & UI/UX Design**
 
 💬 Ask me about **Entrepreneurship, Project Ideas, and Collaborations**
 
